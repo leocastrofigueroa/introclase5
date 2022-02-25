@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Estoy modificando el Archivo Paso
+=======
+Hola como estas todo bien, yo con calor y con ganas de que llegue el finde
+>>>>>>> 34cfcd3ca1b35b6622477ea3aa898a61f205ad3e
